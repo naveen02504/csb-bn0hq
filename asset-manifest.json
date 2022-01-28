@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://naveen02504.github.io/csb-bn0hq/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://naveen02504.github.io/csb-bn0hq/static/js/main.b288b62c.chunk.js",
-    "main.js.map": "https://naveen02504.github.io/csb-bn0hq/static/js/main.b288b62c.chunk.js.map",
+    "main.js": "https://naveen02504.github.io/csb-bn0hq/static/js/main.21b4fcdc.chunk.js",
+    "main.js.map": "https://naveen02504.github.io/csb-bn0hq/static/js/main.21b4fcdc.chunk.js.map",
     "runtime-main.js": "https://naveen02504.github.io/csb-bn0hq/static/js/runtime-main.6c23889d.js",
     "runtime-main.js.map": "https://naveen02504.github.io/csb-bn0hq/static/js/runtime-main.6c23889d.js.map",
-    "static/js/2.ddce9bf0.chunk.js": "https://naveen02504.github.io/csb-bn0hq/static/js/2.ddce9bf0.chunk.js",
-    "static/js/2.ddce9bf0.chunk.js.map": "https://naveen02504.github.io/csb-bn0hq/static/js/2.ddce9bf0.chunk.js.map",
+    "static/js/2.3b47e168.chunk.js": "https://naveen02504.github.io/csb-bn0hq/static/js/2.3b47e168.chunk.js",
+    "static/js/2.3b47e168.chunk.js.map": "https://naveen02504.github.io/csb-bn0hq/static/js/2.3b47e168.chunk.js.map",
     "index.html": "https://naveen02504.github.io/csb-bn0hq/index.html",
     "static/css/main.f29ae65a.chunk.css.map": "https://naveen02504.github.io/csb-bn0hq/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.ddce9bf0.chunk.js.LICENSE.txt": "https://naveen02504.github.io/csb-bn0hq/static/js/2.ddce9bf0.chunk.js.LICENSE.txt"
+    "static/js/2.3b47e168.chunk.js.LICENSE.txt": "https://naveen02504.github.io/csb-bn0hq/static/js/2.3b47e168.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6c23889d.js",
-    "static/js/2.ddce9bf0.chunk.js",
+    "static/js/2.3b47e168.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.b288b62c.chunk.js"
+    "static/js/main.21b4fcdc.chunk.js"
   ]
 }
